@@ -100,7 +100,8 @@ Kami menggunakan metrik evaluasi berikut untuk menilai performa model:
 - **Root Mean Squared Error (RMSE)**
 
 ## Prototype
-Disesuaikan dengan kebutuhan atau bisa ditiru dari laporan dokumentasi massive.
+![Screenshot 2024-05-22 091127](https://github.com/Andreas-23/Touristm_chatbot/assets/91534680/a0b0c90f-7016-4da1-b160-9805a9db362e)
+
 
 ## Integration
 Chatbot dari Watson Assisstant diintegrasikan ke **Website**
@@ -109,7 +110,7 @@ Chatbot dari Watson Assisstant diintegrasikan ke **Website**
 Proses deploy dilakukan di **Watson Studio**
 
 ## Result
-Disesuaikan dengan kebutuhan atau bisa ditiru dari laporan dokumentasi massive.
+![Screenshot (781)](https://github.com/Andreas-23/Touristm_chatbot/assets/91534680/a7d559de-8a01-465a-a9be-0eeb4d34b9f0)
 
 ## Conclusion
 Disesuaikan dengan kebutuhan atau bisa ditiru dari laporan dokumentasi massive.
