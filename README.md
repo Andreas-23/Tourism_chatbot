@@ -1,4 +1,4 @@
-# Machine Learning / AI Project
+# TOURISM CHATBOT
 <p align="center">
   <img src="https://camo.githubusercontent.com/0562f16a4ae7e35dae6087bf8b7805fb7e664a9e7e20ae6d163d94e56b94f32d/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f707974686f6e2d3336373041303f7374796c653d666f722d7468652d6261646765266c6f676f3d707974686f6e266c6f676f436f6c6f723d666664643534">
   <img src="https://camo.githubusercontent.com/05cab52d05663cecbe47a23ca71075ba81b9080dd50561d0f76eb46e902cfef8/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f70616e6461732d2532333135303435382e7376673f7374796c653d666f722d7468652d6261646765266c6f676f3d70616e646173266c6f676f436f6c6f723d7768697465">
@@ -6,7 +6,6 @@
   <img src="https://camo.githubusercontent.com/6c1504bc94a0bd93c60f42b1f59baa44de2d68ecffdabd61fe8d2dbe12cd3374/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f4b657261732d2532334430303030302e7376673f7374796c653d666f722d7468652d6261646765266c6f676f3d4b65726173266c6f676f436f6c6f723d7768697465">
 </p>
 
-Ini adalah repository untuk contoh struktural yang bisa dipakai untuk melakukan dokumentasi Project Massive anda.
 
 ## Teams
 - **Dewi Sinta Febriani** (Data Engineer)
@@ -113,6 +112,6 @@ Proses deploy dilakukan di **Watson Studio**
 ![Screenshot (781)](https://github.com/Andreas-23/Touristm_chatbot/assets/91534680/a7d559de-8a01-465a-a9be-0eeb4d34b9f0)
 
 ## Conclusion
-Disesuaikan dengan kebutuhan atau bisa ditiru dari laporan dokumentasi massive.
+Proyek "Tourism Chatbot" ini berhasil mengembangkan sebuah solusi inovatif untuk membantu wisatawan yang berencana berlibur ke Bandung, sebuah kota dengan berbagai destinasi wisata menarik di Indonesia. Kami telah berhasil mengatasi masalah yang sering dialami oleh turis, yaitu kesulitan dalam mendapatkan informasi dan rekomendasi wisata yang relevan dan akurat.
 
 ---
